@@ -1,0 +1,16 @@
+.navbar{
+    background-color:rgb(94, 128, 121);
+    height:50px ;
+    text-align: center;
+    
+}
+a{
+    color: whitesmoke;
+}
+.video{
+    background-color: yellowgreen;
+    
+}
+.side_bar{
+    background-color: lightsteelblue;
+}
